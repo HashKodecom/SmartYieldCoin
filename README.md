@@ -1,7 +1,7 @@
 # 🛡️ Smart Yield Coin (SYC) - Audit Report
 
 **Audit Version:** v0.0.1  
-**Audit Date:** May 30, 2025  
+**Audit Date:** June 2, 2025  
 **Blockchain:** Ethereum  
 **Solidity Version:** 0.8.30  
 **Status:** ✅ PASSED  
